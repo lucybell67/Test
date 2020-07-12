@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Popolare di Sondrio </h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <label for="lname">Data Prima conversazione :</label><br>
+  <input type="text" id="Data" name="data" value="24/02/2020"><br><br>
+  <input type="submit" value="Submit">
+  
+</form> 
+
+
+
+</body>
+</html>
